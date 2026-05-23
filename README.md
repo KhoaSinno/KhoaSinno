@@ -10,6 +10,7 @@ Full-stack developer focused on building clean, practical, and scalable software
 
 ![Profile views](https://komarev.com/ghpvc/?username=KhoaSinno&style=flat-square&color=58A6FF)
 [![Gmail](https://img.shields.io/badge/Gmail-ntakhoa.work%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ntakhoa.work@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Khoa%20Anh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-anh-7866b0351/)
 
 </div>
 
@@ -80,8 +81,7 @@ I'm a developer who enjoys turning ideas into reliable products. I care about re
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KhoaSinno&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="KhoaSinno GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhoaSinno&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages" />
+<img src="https://ghstats.dev/api/card?username=KhoaSinno&theme=tokyonight&hide_border=true" alt="KhoaSinno GitHub stats" />
 
 <br/>
 
@@ -94,6 +94,7 @@ I'm a developer who enjoys turning ideas into reliable products. I care about re
 I'm open to learning, collaboration, and building useful things with good people.
 
 - Email: [ntakhoa.work@gmail.com](mailto:ntakhoa.work@gmail.com)
+- LinkedIn: [khoa-anh-7866b0351](https://www.linkedin.com/in/khoa-anh-7866b0351/)
 - GitHub: [KhoaSinno](https://github.com/KhoaSinno)
 
 <div align="center">
